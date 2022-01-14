@@ -2,8 +2,4 @@ orquestador: https://cfilms-api-gateway.herokuapp.com/
 ms peliculas: https://films-ms.herokuapp.com/
 web: https://criticfilms.herokuapp.com/
 
-credenciales BD:
-peliculas: mongoDB
-usuario: loke06@gmail.com
-password: 123456Sergio
 
