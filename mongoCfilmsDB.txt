@@ -1,1 +1,0 @@
-mongodb+srv://sergio:123456Sergio@cfilmsdb.l92fn.mongodb.net/CFilmsDB?retryWrites=true&w=majority
